@@ -35,7 +35,7 @@ export default class FirstSection extends Component {
           this.setState({
             [state]: styles.bounceInLeft
           });
-        }, time * 1000);
+        }, time * 1000/2);
   };
   render() {
     return (
