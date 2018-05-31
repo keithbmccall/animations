@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.Section {
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Zero {
+  height: 100vh;
+}
+.Particles {
+  height: 80vh;
+}
+body {
+  background: #222;
+  font-family: "Bowlby One SC", cursive;
+}
+.White-text {
+  color: white;
+}
+.Big-font {
+  font-size: 80px;
+}
+.Lil-font {
+  text-align: center;
+  font-size: 40px;
+}
+.Wide {
+  width: 100%;
+}
