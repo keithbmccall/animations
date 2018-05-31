@@ -22,7 +22,6 @@
     "react-track": "^0.4.4",
     "react-waypoint": "^8.0.1",
     "styled-components": "^3.3.0"
-    
   },
   "scripts": {
     "start": "react-scripts start",
