@@ -8,7 +8,6 @@
 }
 
 .App-header {
-  background-color: #222;
   height: 150px;
   padding: 20px;
   color: white;
@@ -44,7 +43,7 @@
   height: 80vh;
 }
 body {
-  background: #222;
+  background: #555;
   font-family: "Bowlby One SC", cursive;
 }
 .White-text {
@@ -59,4 +58,13 @@ body {
 }
 .Wide {
   width: 100%;
+}
+
+.Spin {
+  display: flex;
+  background: orange;
+  height: 300px;
+  width: 300px;
+  justify-content: center;
+  align-items: center;
 }

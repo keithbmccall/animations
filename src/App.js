@@ -6,7 +6,7 @@ import FirstSection from "./sections/FirstSection";
 import SecondSection from "./sections/SecondSection";
 import ThirdSection from "./sections/ThirdSection";
 import FourthSection from "./sections/FourthSection";
-
+import TrackSection from "./sections/TrackSection";
 
 class App extends Component {
   render() {
@@ -14,6 +14,7 @@ class App extends Component {
       <Fragment>
         <div className="White-text App">
           <ZeroSection />
+          <TrackSection />
           <FirstSection />
           <SecondSection />
           <ThirdSection />
