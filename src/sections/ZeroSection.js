@@ -63,7 +63,7 @@ export default class ZeroSection extends Component {
                       <input
                         type="text"
                         className="form-control"
-                        placeholder="Add new to-do"
+                        placeholder="type something then press submit! -->"
                         aria-label="To-do"
                         aria-describedby="basic-addon2"
                         onChange={this.changeHandler}

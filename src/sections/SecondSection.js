@@ -38,13 +38,9 @@ export default class SectionSection extends Component {
           </div>
         </Waypoint>
         <Particles
-          height="100%"
           params={{
             particles: {
-              number: {
-                value: 194,
-                density: { enable: true, value_area: 400 }
-              },
+              number: { value: 80, density: { enable: true, value_area: 800 } },
               color: { value: "#ffffff" },
               shape: {
                 type: "circle",
